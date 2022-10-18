@@ -5,7 +5,7 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
  -->
 <!-- Milestone 1 -->
 
-<!-- ####### ---Code ------ -->
+<!-----Code ------ -->
 import random
 
 word_list = ['banana', 'apple', 'pear', 'mango', 'coconut']
@@ -47,6 +47,7 @@ def check_guess(guess):
         print('Sorry, {} is not in the word. Try again'.format(guess))
 
 word = 'apple'
+
 def ask_for_input():
     
     while True:
@@ -61,7 +62,7 @@ ask_for_input()
 
 
 
-#--- Comments for both Milestones 1 and 2. Good revision of the basics, loops and functions. Interesting and straight fowrward example
+<!---Comments for both Milestones 1 and 2. Good revision of the basics, loops and functions. Interesting and straight fowrward example-->
 
 
 
