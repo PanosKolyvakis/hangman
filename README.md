@@ -29,11 +29,10 @@ else:
 
 <!-- Milestone 2 -->
 
-####### ---Code ------
+<!--------Code--->
 
 from curses.ascii import isalpha
 
-from secrets import choice
 import random
 
 
