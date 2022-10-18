@@ -5,7 +5,7 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
  -->
 <!-- Milestone 1 -->
 
-####### ---Code ------
+<!-- ####### ---Code ------ -->
 import random
 
 word_list = ['banana', 'apple', 'pear', 'mango', 'coconut']
